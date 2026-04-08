@@ -1,4 +1,6 @@
-<img src="icon.png">
+<p align="center">
+  <img src="icon.png" alt="Fullscreen icon"/>
+</p>
 
 # Fullscreen!
 
